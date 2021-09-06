@@ -1,0 +1,66 @@
+body{
+    font-family: 'poppins';
+}
+
+.header{
+    background-color: aqua;
+    height: 90px;
+    color: white;
+  
+}
+.header-logo{
+    font-size: 36px;
+    float: left;
+    padding: 20px;
+}
+.main{
+    padding: 100px 50px;
+}
+
+.copy-container h1{
+    font-size: 100px;
+}
+
+.copy-container h2{
+    font-size: 40px;
+}
+
+.footer{
+    background-color: teal;
+    color: white;
+    height: 120px;
+    padding: 40px;
+    
+}
+.footer-logo {
+    font-size: 32px;
+    float: left;
+}
+
+.footer-list{
+    float: right;
+}
+
+.footer-list li{
+    padding-bottom: 20px;
+}
+
+li{
+    list-style: none;
+    float: left;
+    padding: 33px 20px;
+}
+
+.footer li{
+    list-style: outside;
+    float: none;
+    padding: 10px;
+}
+h1{
+    font-size: medium;
+}
+
+h2{
+    font-size: small
+    ;
+}
